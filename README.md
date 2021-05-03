@@ -8,4 +8,4 @@ STEPS TO RUN THE MODELS:
 - After saving the changes, click on "model_runner.py" to launch a model selection window.
 - After that you can choose model and work on it.
 - I have not included any dataset in my repository.
-- Although the dataset i tested on my projects were : IRIS, SALARY, PETROL COMSUNPTION, BILL AUTHENTICATION, MOVIE METADATA, BALANCE, HEART, BREAST CANCER, TITANIC, PIMA INDIAN DIABETES
+- Although the datasets i tested on my projects are : IRIS, SALARY, PETROL COMSUNPTION, BILL AUTHENTICATION, MOVIE METADATA, BALANCE, HEART, BREAST CANCER, TITANIC, PIMA INDIAN DIABETES
