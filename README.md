@@ -3,7 +3,7 @@ There are 14 models (7-clasification, 6-regression & 1-clustering), i have deplo
 
 STEPS TO RUN THE MODELS:
 - Download all the .py files at same location.
-- Open "model_runner.py" and change the file path(where you have saved all the .py files) inside all the defined models.
+- Open "model_runner.py" and change the file path (where you have saved all the .py files) inside all the defined models.
 - Then open all the model files (except model_runner.py) and change the path under "def files()".
 - After saving the changes, click on "model_runner.py" to launch a model selection window.
 - After that you can choose model and work on it.
