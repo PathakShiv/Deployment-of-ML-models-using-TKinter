@@ -1,5 +1,6 @@
 I have made a machine learning project besed on unsupervised learning and supervised learning algorithms.
 There are 14 models (7-clasification, 6-regression & 1-clustering), i have deployed these models using tkinter GUI, which is a python package to create frontend.
+
 STEPS TO RUN THE MODELS:
 - Download all the .py files at same location.
 - Open "model_runner.py" and change the file path(where you have saved all the .py files) inside all the defined models.
